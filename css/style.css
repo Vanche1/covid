@@ -164,18 +164,13 @@ body {
 
 .about__button {
 	margin-top: 50px;
-	width: 200px;
-	height: 65px;
+	padding: 20px 50px;
 	background: rgba(250, 86, 82, 0.15);
 	border-radius: 65px;
 	color: #FA5652;
 	font-weight: 600;
 	font-size: 20px;
 	line-height: 24px;
-}
-
-.about__button a {
-	
 }
 
 .about__button:hover {
